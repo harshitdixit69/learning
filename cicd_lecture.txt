@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=361bfIvXMBI
+//complete youtube lecture for Jenkins CI/CD Pipeline - SonarQube, Docker, Github Webhooks on AWS | Resume Project | English 
